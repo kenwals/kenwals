@@ -1,7 +1,7 @@
 ### My name is Ken 👋
 
 - 🔭 I’m currently studying Full Stack Software Development in the Code Institute / UCD professional Academy. I plan to finish in August 2021
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Flask , MySQL and MongoDB
 - 📫 How to reach me: kenwals@gmail.com
 - 😄 Pronouns: he/him ☘️
 
