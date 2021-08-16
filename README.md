@@ -27,9 +27,9 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kenwals&show_icons=true&theme=dracula&hide_title=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenwals&hide=shell,dockerfile&langs_count=8&layout=compact" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenwals&show_icons=true&locale=en" alt="kenwals" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenwals&" alt="kenwals" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenwals" alt="kenwals" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=kenwals&show_icons=true&locale=en" alt="kenwals" />
+
+
 </p>
 
   
@@ -49,4 +49,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 ☘️
+
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwals&" alt="kenwals" />
+ <img src="https://github-profile-trophy.vercel.app/?username=kenwals" alt="kenwals" />
 -->
