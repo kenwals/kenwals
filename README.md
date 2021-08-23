@@ -1,7 +1,7 @@
 ### My name is Ken 👋
 
-- 🔭 I’m currently studying Full Stack Software Development in the Code Institute / UCD professional Academy. I plan to finish in August 2021
-- 🌱 I’m currently learning Python + Django
+- 🔭 I’m recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy.
+- 🌱 I’m currently taking a break from learning , but intend on picking up NodeJS when my break is over.
 - 📫 How to reach me: kenwals@gmail.com
 - 😄 Pronouns: he/him ☘️
 
