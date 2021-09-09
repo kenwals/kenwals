@@ -1,7 +1,7 @@
 ### My name is Ken 👋
 
-- 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy.
-- 🌱 I’m currently learning Algorithms and Data Structures
+- 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. Just waiting on my final result.
+- 🌱 I’m currently learning Algorithms and Data Structures with Treehouse, and plan on expanding my Javascript knowledge after that.
 - 📫 How to reach me: kenwals@gmail.com
 - 😄 Pronouns: he/him ☘️
 
