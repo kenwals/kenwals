@@ -1,8 +1,15 @@
 ### My name is Ken 👋
 
 - 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. Just waiting on my final result.
-- 🌱 I’m currently learning Algorithms and Data Structures with Treehouse, and plan on expanding my Javascript knowledge after that.
+  - MS1 Merit, MS2 Merit, MS3 Distinction, MS4 TBC.
+
+- 🌱 I’m currently studying:
+  - Algorithms and Data Structures ✨  with Treehouse.
+  - JavaScript Algorithms and Data Structures ✨  with freecodecamp.org
+  - JavaScript on https://grasshopper.app/ 
+
 - 📫 How to reach me: kenwals@gmail.com
+
 - 😄 Pronouns: he/him ☘️
 
 <h3 align="left">Languages and Tools:</h3>
