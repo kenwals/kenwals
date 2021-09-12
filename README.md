@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently studying:
   - Algorithms and Data Structures ✨  with Treehouse.
-  - JavaScript Algorithms and Data Structures ✨  with freecodecamp.org
-  - JavaScript on https://grasshopper.app/ 
+  - JavaScript Algorithms and Data Structures ✨ with freecodecamp.org
+  - JavaScript on grasshopper.app
 
 - 📫 How to reach me: kenwals@gmail.com
 
