@@ -1,7 +1,6 @@
 ### My name is Ken 👋
 
-- 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. Just waiting on my final result.
-  - MS1 Merit, MS2 Merit, MS3 Distinction, MS4 TBC.
+- 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. I achieved an overal result of Merit.
 
 - 🌱 I’m currently studying:
   - Algorithms and Data Structures ✨  with Treehouse.
