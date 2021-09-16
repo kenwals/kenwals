@@ -1,6 +1,6 @@
 ### My name is Ken 👋
 
-- 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. I achieved an overal result of Merit.
+- 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. I achieved an overall result of Merit.
 
 - 🌱 I’m currently studying:
   - Algorithms and Data Structures ✨  with Treehouse.
