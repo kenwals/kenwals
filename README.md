@@ -41,7 +41,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenwals&label=Profile%20views&color=0e75b6&style=plastic" alt="kenwals" /> </p>
 
-
+![](https://hit.yhype.me/github/profile?user_id=3620604)
 <!--
 **kenwals/kenwals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
