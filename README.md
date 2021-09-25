@@ -62,4 +62,6 @@ Here are some ideas to get you started:
  <img src="https://github-profile-trophy.vercel.app/?username=kenwals" alt="kenwals" />
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenwals&label=Profile%20views&color=0e75b6&style=plastic" alt="kenwals" /> </p>
 -->
