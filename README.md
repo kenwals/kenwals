@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: kenwals@gmail.com
 
-- 😄 Pronouns: he/him ☘️
+- 😄 Pronouns: he/him ☘️:rainbow:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
