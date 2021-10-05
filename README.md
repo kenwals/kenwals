@@ -3,7 +3,6 @@
 - 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. I achieved an overall result of Merit.
 
 - 🌱 I’m currently studying:
-  - Algorithms and Data Structures (in Python) ✨  with Treehouse.
   - JavaScript Algorithms and Data Structures ✨ with freecodecamp.org
   - JavaScript 🦗 on grasshopper.app
 
