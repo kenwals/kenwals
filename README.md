@@ -2,10 +2,6 @@
 
 - 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. I achieved an overall result of Merit.
 
-- 🌱 I’m currently studying/revising :
-  - JavaScript Algorithms and Data Structures ✨ with freecodecamp.org
-  - JavaScript 🦗 on grasshopper.app
-
 - 💬 Ask me about taking care of houseplants and why i love pomodoro timers
 
 - 📫 How to reach me: kenwals@gmail.com
@@ -53,6 +49,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kenwals@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
+
+- 🌱 I’m currently studying/revising :
+  - JavaScript Algorithms and Data Structures ✨ with freecodecamp.org
+  - JavaScript 🦗 on grasshopper.app
 
 ☘️
 
