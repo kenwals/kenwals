@@ -1,5 +1,7 @@
 ### My name is Ken 👋
 
+- 🌱 I’m currently learning about ServiceNow Application Development and Brazilian jiu-jitsu.
+
 - 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy. I achieved an overall result of Merit.
 
 - 💬 Ask me about taking care of houseplants and why i love pomodoro timers
