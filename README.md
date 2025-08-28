@@ -6,7 +6,7 @@
 
 - 💬 Ask me about taking care of houseplants and why i love pomodoro timers
 
-- 📫 How to reach me: kenwals@gmail.com
+- 📫 How to reach me: linkedin 
 
 - 😄 Pronouns: he/him ☘️ :rainbow: 
 
